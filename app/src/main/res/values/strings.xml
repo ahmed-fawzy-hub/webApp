@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">yat730WebApp</string>
+
+    <string-array name="signs">
+        <item>Cancer</item>
+        <item>Leo</item>
+        <item>Scorpio</item>
+        <item>Virgo</item>
+    </string-array>
+</resources>
